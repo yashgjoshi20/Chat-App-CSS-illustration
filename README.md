@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/yashgjoshi20/Order-Summary-Component-Using-CSS.git)
-- Live Site URL: (https://yashgjoshi20.github.io/Order-Summary-Component-Using-CSS/)
+- Solution URL: (https://github.com/yashgjoshi20/Chat-App-CSS-illustration.git)
+- Live Site URL: (https://yashgjoshi20.github.io/Chat-App-CSS-illustration/)
 
 ## My process
 
